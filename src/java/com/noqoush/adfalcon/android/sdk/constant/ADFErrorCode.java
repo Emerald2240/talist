@@ -1,0 +1,18 @@
+package com.noqoush.adfalcon.android.sdk.constant;
+
+public enum ADFErrorCode {
+   COMMUNICATION_ERROR,
+   GENERIC_SDK_ERROR,
+   INTERNAL_SERVER_ERROR,
+   INTERSTITIAL_ALREADY_SHOWN,
+   INVALID_PARAM,
+   MISSING_PARAM,
+   NONE,
+   NO_AVAILABLE_AD;
+
+   static {
+      ADFErrorCode var0 = new ADFErrorCode("INTERSTITIAL_ALREADY_SHOWN", 7);
+      INTERSTITIAL_ALREADY_SHOWN = var0;
+      ADFErrorCode[] var1 = new ADFErrorCode[]{NONE, GENERIC_SDK_ERROR, INTERNAL_SERVER_ERROR, COMMUNICATION_ERROR, NO_AVAILABLE_AD, INVALID_PARAM, MISSING_PARAM, var0};
+   }
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="false" android:layout_width="-2" android:layout_height="-2">
+	<ImageView android:id="false" android:background="80696969" android:layout_width="20dp" android:layout_height="-2" android:src="res/drawable/left_arrow.png" android:scaleType="3" android:layout_alignParentRight="true" />
+</RelativeLayout>

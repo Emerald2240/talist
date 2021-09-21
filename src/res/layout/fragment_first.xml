@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:background="ffffff" android:layout_width="-1" android:layout_height="-1">
+	<ImageView android:layout_gravity="0x11" android:id="false" android:layout_width="350dp" android:layout_height="350dp" android:src="res/mipmap-xxxhdpi-v4/be_updated_undraw_design_objectives.png" />
+	<TextView android:textAppearance="resourceId:0x7f1000e3" android:textSize="30sp" android:textColor="209a55" android:gravity="0x11" android:layout_gravity="0x11" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Stay Updated" />
+	<TextView android:textSize="15sp" android:gravity="0x11" android:layout_gravity="0x11" android:id="false" android:layout_width="290dp" android:layout_height="-2" android:text="Be Notified of the Latest Currency Rate changes." android:layout_weight="{4:1065353216}" />
+	<LinearLayout android:layout_gravity="0x11" android:orientation="0" android:layout_width="-2" android:layout_height="-2" android:layout_weight="{4:1065353216}">
+		<ImageView android:layout_gravity="0x11" android:id="false" android:layout_width="10dp" android:layout_height="10dp" android:layout_margin="10dp" android:src="res/drawable/circleyellow.xml" />
+		<ImageView android:layout_gravity="0x11" android:id="false" android:layout_width="10dp" android:layout_height="10dp" android:layout_margin="10dp" android:src="res/drawable/circlegreen.xml" />
+		<ImageView android:layout_gravity="0x11" android:id="false" android:layout_width="10dp" android:layout_height="10dp" android:layout_margin="10dp" android:src="res/drawable/circlegreen.xml" />
+		<ImageView android:layout_gravity="0x11" android:id="false" android:layout_width="10dp" android:layout_height="10dp" android:layout_margin="10dp" android:src="res/drawable/circlegreen.xml" />
+	</LinearLayout>
+	<TextView android:textSize="20sp" android:textColor="209a55" android:gravity="0x800055" android:layout_gravity="0x800055" android:id="false" android:layout_width="-1" android:layout_height="-2" android:text="Next" android:layout_weight="{4:1065353216}" />
+</LinearLayout>

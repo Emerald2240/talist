@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="false" android:background="80000" android:layout_width="-1" android:layout_height="40dp">
+	<ImageView android:id="false" android:layout_width="30dp" android:layout_height="30dp" android:layout_margin="5dp" android:src="res/drawable/mute_btn.png" />
+	<ImageView android:id="false" android:layout_width="30dp" android:layout_height="30dp" android:layout_margin="5dp" android:src="res/drawable/replay_btn.png" />
+	<ImageView android:id="false" android:layout_width="30dp" android:layout_height="30dp" android:layout_margin="5dp" android:src="res/drawable/close_btn.png" android:layout_alignParentRight="true" />
+	<ImageView android:id="false" android:layout_width="30dp" android:layout_height="30dp" android:layout_margin="5dp" android:src="res/drawable/close_btn.png" android:layout_alignParentRight="true" />
+	<TextView android:textSize="14sp" android:textStyle="0x1" android:textColor="resourceId:0x106000b" android:gravity="0x11" android:id="false" android:layout_width="-2" android:layout_height="-2" android:maxLines="1" android:layout_toLeftOf="false" android:layout_toRightOf="false" android:layout_centerInParent="true" />
+	<RelativeLayout android:id="false" android:visibility="0" android:layout_width="110dp" android:layout_height="30dp" android:layout_toLeftOf="false" android:layout_centerVertical="true">
+		<ImageView android:id="false" android:layout_width="-1" android:layout_height="-1" android:src="res/drawable-xhdpi-v4/close_endcard_btn.png" />
+		<TextView android:textSize="10sp" android:textStyle="0x1" android:textColor="resourceId:0x106000c" android:gravity="0x13" android:id="false" android:layout_width="-2" android:layout_height="20dp" android:layout_marginLeft="22dp" android:maxLines="1" android:layout_centerVertical="true" />
+	</RelativeLayout>
+</RelativeLayout>

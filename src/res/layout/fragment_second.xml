@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:background="ffffff" android:layout_width="-1" android:layout_height="-1">
+	<ImageView android:layout_gravity="0x11" android:id="false" android:layout_width="350dp" android:layout_height="350dp" android:src="res/mipmap-xxxhdpi-v4/large_number_of_rates_undraw_lost_online.png" />
+	<TextView android:textAppearance="resourceId:0x7f1000e3" android:textSize="30sp" android:textColor="209a55" android:gravity="0x11" android:layout_gravity="0x11" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Huge Number Of Rates" />
+	<TextView android:textSize="15sp" android:gravity="0x11" android:layout_gravity="0x11" android:id="false" android:layout_width="290dp" android:layout_height="-2" android:text="Browse Through 80% of the World&apos;s Currency Rates." android:layout_weight="{4:1065353216}" />
+	<LinearLayout android:layout_gravity="0x11" android:orientation="0" android:layout_width="-2" android:layout_height="-2" android:layout_weight="{4:1065353216}">
+		<ImageView android:layout_gravity="0x11" android:id="false" android:layout_width="10dp" android:layout_height="10dp" android:layout_margin="10dp" android:src="res/drawable/circlegreen.xml" />
+		<ImageView android:layout_gravity="0x11" android:id="false" android:layout_width="10dp" android:layout_height="10dp" android:layout_margin="10dp" android:src="res/drawable/circleyellow.xml" />
+		<ImageView android:layout_gravity="0x11" android:id="false" android:layout_width="10dp" android:layout_height="10dp" android:layout_margin="10dp" android:src="res/drawable/circlegreen.xml" />
+		<ImageView android:layout_gravity="0x11" android:id="false" android:layout_width="10dp" android:layout_height="10dp" android:layout_margin="10dp" android:src="res/drawable/circlegreen.xml" />
+	</LinearLayout>
+	<LinearLayout android:layout_gravity="0x50" android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_weight="{4:1065353216}">
+		<TextView android:textSize="20sp" android:textColor="209a55" android:gravity="0x800053" android:layout_gravity="0x800053" android:id="false" android:layout_width="-2" android:layout_height="-1" android:text="Back" android:layout_weight="{4:1065353216}" />
+		<TextView android:textSize="20sp" android:textColor="209a55" android:gravity="0x55" android:layout_gravity="0x3" android:id="false" android:layout_width="-2" android:layout_height="-1" android:text="Next" android:layout_weight="{4:1065353216}" />
+	</LinearLayout>
+</LinearLayout>
